@@ -23,7 +23,7 @@ SafeHaven Realty is an intuitive real estate website built with **HTML**, **CSS*
 
 ## Live Demo
 
-[Visit SafeHaven Realty](https://yourprojectname.username.repl.co)
+https://f157564c-98f4-40d8-9d88-cc2b1fd4198e-00-qm87lpn2pad7.kirk.replit.dev/
 
 ## Contributing
 
